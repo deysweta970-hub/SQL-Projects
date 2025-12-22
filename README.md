@@ -5,6 +5,7 @@ It covers data extraction, filtering, aggregation, joins, and business insights.
 
 The goal is to showcase my ability to work with structured data and answer
 analytical questions using SQL.
+#
 <a href="https://github.com/deysweta970-hub/SQL-Projects/commit/db7f878f4a10677b73c76099532c7d702e6c116c">SQL</a>
 # Tool Used
 SQL-pg Admin 4
