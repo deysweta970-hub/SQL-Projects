@@ -2,7 +2,9 @@
 <a href="https://github.com/deysweta970-hub/SQL-Projects/commit/db7f878f4a10677b73c76099532c7d702e6c116c">SQL</a>
 ------------------------TABLE 1
 CREATE TABLE "BOOKS1"(
+
 "Book_ID" Serial  Primary key,
+
 "Title" VARCHAR ,
 "Author" VARCHAR,
 "Genre" VARCHAR,
